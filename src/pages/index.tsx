@@ -141,7 +141,7 @@ export default function Home() {
       </h4>
 
       <footer className="cntr-footer">
-          Created with  <a href='Cat.mp4'>❤ </a>  by Marlon Gehrmann and Julian Maier 
+          Created with  <a href='Cat.mp4'>❤ </a>  by Marlon Gehrmann, Julian Maier and Fabian Egenberger 
       </footer>
       <footer>
       This is not an official app of Stadtwerke München <br/>
